@@ -2,7 +2,7 @@
 
 ## 📝 **Introduction**
 
-**Problem Statement ID**: SIH1661  
+**Problem Statement ID**: SIH1661 
 **Problem Title**: Implement Software Solutions to Reduce Student Dropout Rates at Various Educational Stages  
 **Theme**: Smart Education  
 **Team Name**: Innovision Squad  
